@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjay01" target="blank"><img src="https://img.shields.io/twitter/follow/sanjay01?logo=twitter&style=for-the-badge" alt="sanjay01" /></a> </p>
 
-- 🌱 I’m currently learning **React, Devops**
+- 🌱 I’m currently learning **React, Express Js**
 
 - 💬 Ask me about **Frontend Developer,Web Developer**
 
