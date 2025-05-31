@@ -1,4 +1,4 @@
-<img align ="center" width="900px" height="300px"  src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1587960987.1747452172&semt=ais_hybrid&w=740">
+//<img align ="center" width="900px" height="300px"  src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1587960987.1747452172&semt=ais_hybrid&w=740">//
 
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
